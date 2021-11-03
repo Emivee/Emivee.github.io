@@ -1,8 +1,0 @@
-name: "Site-pfda1"
-navbar:
-  title: "Meu Pages"
-  left:
-    - text: "Ínicio"
-      href: index.html
-    - text: "Sobre"
-      href: about.html
